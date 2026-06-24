@@ -1,10 +1,11 @@
 bool isPalindrome(int x) {
-    int rem = 0 ,tmp = x;
-    long rev_num = 0 ;
     if(x < 0 || (x % 10 == 0 && x != 0))
     {
         return false;
     }
+    int rem = 0 ,tmp = x;
+    long rev_num = 0 ;
+    
     while(tmp != 0)
     {
         rem = tmp % 10;
