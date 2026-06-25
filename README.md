@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
