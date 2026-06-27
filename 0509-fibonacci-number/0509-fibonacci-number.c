@@ -5,8 +5,12 @@ int fib(int n){
     {
         return n;
     }
-    else
+    int a = 1 ,b = 0;
+    for(int i = 2 ; i <= n ; i ++)
     {
-    return fib(n - 1) + fib(n - 2);
+        int c = a + b;
+        b = a;
+        a = c;
     }
+    return a;
 }
