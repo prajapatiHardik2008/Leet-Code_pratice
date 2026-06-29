@@ -67,4 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
