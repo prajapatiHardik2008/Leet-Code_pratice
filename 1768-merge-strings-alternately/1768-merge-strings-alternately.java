@@ -10,11 +10,11 @@ class Solution {
         }
         if( i < word1.length())
         {
-            res.append(word1.substring(i,word1.length()));
+            res.append(word1.substring(i));
         }
         else if (i <  word2.length())
         {
-            res.append(word2.substring(i,word2.length()));
+            res.append(word2.substring(i));
         }
         return res.toString();
     }
