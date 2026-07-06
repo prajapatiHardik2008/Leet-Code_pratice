@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
+| [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
