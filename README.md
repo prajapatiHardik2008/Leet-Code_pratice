@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0094-binary-tree-inorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
