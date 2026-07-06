@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
