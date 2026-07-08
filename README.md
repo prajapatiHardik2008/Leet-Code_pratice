@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
 ## Hash Table
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
