@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1486-xor-operation-in-an-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
