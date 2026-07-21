@@ -4,14 +4,14 @@ class Solution {
             {
                 int a = str1.length();
                 int b = str2.length();
-                int gcd= 0;
+                // int gcd= 0;
                 while (b != 0) {
                     int rem = a % b;
                     a = b;
                     b = rem;
-                    gcd = a;
+                    // gcd = a;
                 }
-                return (str1.substring(0,gcd ));
+                return (str1.substring(0,a ));
             }
             else{
                 return "";
