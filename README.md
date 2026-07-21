@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
