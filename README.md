@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
