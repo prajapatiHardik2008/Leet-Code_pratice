@@ -4,16 +4,16 @@ class Solution {
         int sMax = 0; 
         for(int ele : nums)
         {
-            if(ele -1 > fMax)
+            if(ele > fMax)
             {
                 sMax = fMax;
-                fMax = ele - 1;
+                fMax = ele;
             }
-            else if(ele -1 > sMax)
+            else if(ele  > sMax)
             {
-                sMax = ele -1 ;
+                sMax = ele;
             }
         }
-    return fMax * sMax;
+    return (fMax -1)* (sMax - 1);
     }
 }
