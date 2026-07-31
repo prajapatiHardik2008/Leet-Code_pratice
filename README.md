@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
