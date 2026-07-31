@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0342-power-of-four) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1952-three-divisors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
