@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1185-day-of-the-week) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0191-number-of-1-bits) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
