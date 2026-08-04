@@ -6,14 +6,8 @@ class Solution {
         for(int num : nums)
         {
             set.add(num);
-            if(num > max)
-            {
-                max = num;
-            }
-            if(num < min)
-            {
-                min = num;
-            }
+            min = Math.min(min ,num );
+            max = Math.max(max,num);
         }
 
         for(int i = min; i <= max ; i++)
