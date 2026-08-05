@@ -1,6 +1,6 @@
 
 int reverse(int x){
-     int  rev = 0 ;
+    int  rev = 0 ;
     int tmp;
     while(x != 0)
     {
