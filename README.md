@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
+| [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0796-rotate-string) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
