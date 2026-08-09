@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0066-plus-one) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3731-find-missing-elements) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
