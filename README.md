@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
