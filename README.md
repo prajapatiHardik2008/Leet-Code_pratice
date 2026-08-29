@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1480-running-sum-of-1d-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
