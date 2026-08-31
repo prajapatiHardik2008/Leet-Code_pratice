@@ -7,7 +7,8 @@ class Solution {
         }
         int ans = 0;
         for (Integer key : map.keySet()) {
-            if(map.get(key) > nums.length / 2 && map.get(key) > ans)
+            int n = map.get(key);
+            if(n > nums.length / 2 && n > ans)
             {
                 ans = key;
             }
