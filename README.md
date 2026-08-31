@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0191-number-of-1-bits) |
 ## Minimax
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0976-largest-perimeter-triangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
