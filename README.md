@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
