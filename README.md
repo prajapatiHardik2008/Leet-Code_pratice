@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0035-search-insert-position) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0283-move-zeroes) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
