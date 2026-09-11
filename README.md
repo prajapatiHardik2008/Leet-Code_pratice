@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3903-smallest-stable-index-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prajapatiHardik2008/Leet-Code_pratice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
